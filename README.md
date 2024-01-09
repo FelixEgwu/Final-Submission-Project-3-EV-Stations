@@ -54,5 +54,5 @@ In the project, ethical considerations take center stage, emphasizing a commitme
 - JavaScript
     - D3.js
     - Plotly
-    - Leaflet
+    
 - SQLite
